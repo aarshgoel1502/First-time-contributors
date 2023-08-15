@@ -5,7 +5,7 @@ If you don't have git in your machine, download it from [here](https://git-scm.c
 Follow the steps to make your first contribution. 
 
 ### Fork this repository 
-Creating a fork is producing a personal copy of someone else's project. 
+Creating a fork is producing a personal copy of someone else's project.
 
 Forks act as a sort of bridge between the original repository and your personal copy. 
 
